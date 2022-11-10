@@ -70,7 +70,7 @@ export const Banner = () => {
                     </span>
                   </h1>
                   <p>
-                    I'm a software engineer based in Minneaplis, MN. I started
+                    I'm a software engineer based in Minneapolis, MN. I started
                     coding at the beginning of the pandemic and started working
                     fulltime later that same year (2020). Below are some of my
                     favorite projects I've worked on.

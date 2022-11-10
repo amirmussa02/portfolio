@@ -36,8 +36,8 @@ export const Skills = () => {
               <h2>Skills</h2>
               <p>
                 Below are some of my skills that I've built since working in the
-                industry.<br></br> I look forward to learning new technologies and
-                improving on current technologies as well.
+                industry.<br></br> I look forward to learning new technologies
+                and improving on current technologies as well.
               </p>
               <Carousel
                 responsive={responsive}
@@ -77,7 +77,6 @@ export const Skills = () => {
           </div>
         </div>
       </div>
-      <img className="background-image-left" src={colorSharp} alt="Image" />
     </section>
   );
 };
